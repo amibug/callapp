@@ -40,6 +40,8 @@
     "eslint-plugin-react": "^6.3.0",
     "less": "^2.7.2",
     "less-loader": "^4.0.3",
+    "rollup-plugin-postcss": "^1.6.3",
+    "rollup-plugin-terser": "^3.0.0",
     "style-loader": "^0.17.0",
     "webpack": "^1.13.2",
     "yargs": "^6.0.0"
