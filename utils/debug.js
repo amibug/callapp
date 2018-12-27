@@ -1,7 +1,7 @@
 /**
  * @desc debug工具
  */
-require('./debug.less');
+import './debug.less';
 import tool from './tool.js';
 import tpls from './template.js';
 
